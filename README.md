@@ -61,6 +61,13 @@ A security-focused system that simulates user authentication, role-based access 
 
 ---
 
+## 🚧 Project Status
+
+These projects are currently **under development** and have been submitted for initial review.
+Further implementation and refinements will proceed after receiving **faculty feedback**.
+
+---
+
 ## 👥 Group Contribution
 
 Each project is divided into features and implemented collaboratively, ensuring equal contribution from all members.
